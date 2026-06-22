@@ -13,3 +13,5 @@ A smart application designed to help users manage their recurring service subscr
 
 ## Status
 - Currently in active development.
+
+- .
