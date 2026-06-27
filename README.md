@@ -16,3 +16,4 @@ A smart application designed to help users manage their recurring service subscr
 
 - https://9e721cbd-1843-469e-a6c2-1e242da58395-00-2rg4nyii24xu8.spock.replit.dev/
 add
+[Ссылка на мое приложение](https://9e721cbd-1843-469e-a6c2-1e242da58395-00-2rg4nyii24xu8.spock.replit.dev/)
